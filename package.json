@@ -1,0 +1,25 @@
+{
+  "name": "lit-localize-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm:localize:watch\" \"vite\"",
+    "build": "npm run localize:build && tsc && vite build",
+    "localize:extract": "lit-localize extract",
+    "localize:build": "lit-localize build",
+    "localize:watch": "chokidar \"src/locales/**/*.xlf\" -c \"npm run localize:build\"",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@lit/localize": "^0.12.2",
+    "@lit/localize-tools": "^0.8.0",
+    "lit": "^3.3.0"
+  },
+  "devDependencies": {
+    "chokidar-cli": "^3.0.0",
+    "concurrently": "^9.2.0",
+    "typescript": "~5.8.3",
+    "vite": "^7.0.0"
+  }
+}

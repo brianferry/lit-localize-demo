@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/lit/lit/main/packages/localize-cli/lit-localize-schema.json",
+  "sourceLocale": "en",
+  "targetLocales": [
+    "es"
+  ],
+  "inputFiles": [
+    "src/my-element.ts"
+  ],
+  "output": {
+    "mode": "runtime",
+    "outputDir": "src/generated/locales"
+  },
+  "interchange": {
+    "format": "xliff",
+    "xliffDir": "src/locales"
+  }
+} 
