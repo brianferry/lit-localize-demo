@@ -15,6 +15,6 @@
 's399108fd5f831e3b': `访问仪表板`,
 's73c1c5e257be2bdb': `单击 Vite 和 Lit 徽标以了解更多信息`,
 's89fdbac1c890a026': str`计数为 ${0}`,
-'sb1e9a707f5617e44': `Please, read the documentation.`,
+'sf1bae07fed868aa6': `Please read the documentation.`,
     };
   

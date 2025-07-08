@@ -15,6 +15,6 @@
 's399108fd5f831e3b': `Visita el panel`,
 's73c1c5e257be2bdb': `Haga clic en los logotipos de Vite y Lit para obtener más información.`,
 's89fdbac1c890a026': str`el recuento es ${0}`,
-'sb1e9a707f5617e44': `Please, read the documentation.`,
+'sf1bae07fed868aa6': `Please read the documentation.`,
     };
   

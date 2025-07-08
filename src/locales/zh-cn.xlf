@@ -29,8 +29,8 @@
   <target>访问仪表板</target>
   <note from="lit-localize">Footer CTA</note>
 </trans-unit>
-<trans-unit id="sb1e9a707f5617e44">
-  <source>Please, read the documentation.</source>
+<trans-unit id="sf1bae07fed868aa6">
+  <source>Please read the documentation.</source>
 </trans-unit>
 </body>
 </file>
