@@ -40,8 +40,8 @@ export class MyElement extends LitElement {
           ${msg(str`count is ${this.count}`)}<br>
         </button>
       </div>
-      <p class="read-the-docs">${msg('Click on the Vite and Lit logos to learn more')}</p>
-      <p>${msg('Hi there.')}</p>
+      <p class="read-the-docs">${msg('Click on the Vite and Lit logos to learn more', { desc: 'Figma ref: https://www.figma.com/design/0OcAeiqx4MYnH7XQyeq0eN/My-Red-Hat---Security-CVE-component?node-id=885-3353&t=tICfpo0VVkrjsLim-4'})}</p>
+      <p>${msg('Please, read the documentation.')}</p>
     `;
   }
 

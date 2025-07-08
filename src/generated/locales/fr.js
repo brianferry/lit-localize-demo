@@ -15,6 +15,6 @@
 's399108fd5f831e3b': `Visitez le tableau de bord`,
 's73c1c5e257be2bdb': `Cliquez sur les logos Vite et Lit pour en savoir plus`,
 's89fdbac1c890a026': str`le compte est de ${0}`,
-'sbce74853f113b30a': `Hi there.`,
+'sb1e9a707f5617e44': `Please, read the documentation.`,
     };
   

@@ -17,6 +17,7 @@
 <trans-unit id="s73c1c5e257be2bdb">
   <source>Click on the Vite and Lit logos to learn more</source>
   <target>单击 Vite 和 Lit 徽标以了解更多信息</target>
+  <note from="lit-localize">Figma ref: https://www.figma.com/design/0OcAeiqx4MYnH7XQyeq0eN/My-Red-Hat---Security-CVE-component?node-id=885-3353&amp;t=tICfpo0VVkrjsLim-4</note>
 </trans-unit>
 <trans-unit id="s26345b123a76a186">
   <source>/en/dashboard</source>
@@ -28,8 +29,8 @@
   <target>访问仪表板</target>
   <note from="lit-localize">Footer CTA</note>
 </trans-unit>
-<trans-unit id="sbce74853f113b30a">
-  <source>Hi there.</source>
+<trans-unit id="sb1e9a707f5617e44">
+  <source>Please, read the documentation.</source>
 </trans-unit>
 </body>
 </file>
