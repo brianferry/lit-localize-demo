@@ -28,6 +28,9 @@
   <target>Visitez le tableau de bord</target>
   <note from="lit-localize">Footer CTA</note>
 </trans-unit>
+<trans-unit id="sbce74853f113b30a">
+  <source>Hi there.</source>
+</trans-unit>
 </body>
 </file>
 </xliff>

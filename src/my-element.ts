@@ -41,6 +41,7 @@ export class MyElement extends LitElement {
         </button>
       </div>
       <p class="read-the-docs">${msg('Click on the Vite and Lit logos to learn more')}</p>
+      <p>${msg('Hi there.')}</p>
     `;
   }
 
