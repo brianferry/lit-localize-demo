@@ -14,6 +14,7 @@
   "dependencies": {
     "@lit/localize": "^0.12.2",
     "@lit/localize-tools": "^0.8.0",
+    "@rhds/elements": "^3.0.4",
     "lit": "^3.3.0"
   },
   "devDependencies": {

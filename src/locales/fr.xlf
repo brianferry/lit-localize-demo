@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-<file target-language="es" source-language="en" original="lit-localize-inputs" datatype="plaintext">
+<file target-language="fr" source-language="en" original="lit-localize-inputs" datatype="plaintext">
 <body>
 <trans-unit id="hccc4c48730bab8f7">
   <source>My Red Hat® Dashboard</source>
-  <target>Mi panel de Red Hat®</target>
+  <target>Mon tableau de bord Red Hat®</target>
 </trans-unit>
 <trans-unit id="h0fba71f1804e110d">
   <source>Welcome to your customized Red Hat dashboard, where you can easily access your most relevant information and tasks.</source>
-  <target>Bienvenido a tu panel de Red Hat personalizado, donde puedes acceder fácilmente a tu información y tareas más relevantes.</target>
+  <target>Bienvenue sur votre tableau de bord Red Hat personnalisé, où vous pouvez accéder facilement à vos informations et tâches les plus pertinentes.</target>
 </trans-unit>
 <trans-unit id="s89fdbac1c890a026">
   <source>count is <x id="0" equiv-text="${this.count}"/></source>
-  <target>el recuento es <x id="0" equiv-text="${this.count}"/></target>
+  <target>le compte est de <x id="0" equiv-text="${this.count}"/></target>
 </trans-unit>
 <trans-unit id="s73c1c5e257be2bdb">
   <source>Click on the Vite and Lit logos to learn more</source>
-  <target>Haga clic en los logotipos de Vite y Lit para obtener más información.</target>
+  <target>Cliquez sur les logos Vite et Lit pour en savoir plus</target>
 </trans-unit>
 <trans-unit id="s26345b123a76a186">
   <source>/en/dashboard</source>
-  <target>/es/dashboard</target>
+  <target>/fr/dashboard</target>
   <note from="lit-localize">Footer CTA</note>
 </trans-unit>
 <trans-unit id="s399108fd5f831e3b">
   <source>Visit the dashboard</source>
-  <target>Visita el panel</target>
+  <target>Visitez le tableau de bord</target>
   <note from="lit-localize">Footer CTA</note>
 </trans-unit>
 </body>
